@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Torchy by DaKirsche.eu</string>
+    <string name="color_red">Rot</string>
+    <string name="color_green">Grün</string>
+    <string name="color_blue">Blau</string>
+    <string name="screen_starter">Starte Screen Torch</string>
+    <string name="lbl_or">-------------- ODER ----------------</string>
+    <string name="led_starter">Starte LED Torch</string>
+    <string name="led_stopper">Stoppe LED Torch</string>
+    <string name="led_not_avaiable">LED Torch ist nicht verfügbar!</string>
+    <string name="cannot_access_led">Auf LED kann nicht zugegriffen werden</string>
+    <string name="click_to_stop">Klicken Sie auf den Bildschirm, \num zurück zu kehren!</string>
+    <string name="stop_app">App beenden</string>
+    <string name="select_color">ScreenTorch Farbe wählen:</string>
+    <string name="led_flashlight">LED Flashlight</string>
+    <string name="cannot_reset_brightness">Leider konnte die Helligkeit nicht zurückgesetzt werden!</string>
+    <string name="cannot_raise_brightness">Leider konnte die Helligkeit nicht hochgeregelt werden!</string>
+    <string name="widget_name_torchy_led">Torchy Quick LED Widget</string>
+</resources>
